@@ -8,3 +8,4 @@ If i have more time i would implement some animations in the app and also to add
 
 link to the app: https://github.com/BENJAHJP/profile_app/
 
+link to appetize: https://appetize.io/app/mtx5ulqvsclhuzg4l66d3iwgyu?device=pixel4&osVersion=11.0&scale=75
